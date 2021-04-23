@@ -1,0 +1,9 @@
+name: mi-reu
+channels:
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn

@@ -1,0 +1,1 @@
+Output data from the workshops should be written to this directory.
