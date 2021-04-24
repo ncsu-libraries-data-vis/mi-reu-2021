@@ -20,16 +20,20 @@ These interactive notebooks can be copied to your local machine and run using Ju
 
 3. **Navigate to the folder where the repository files were copied.** After launching Jupyter Notebook a browser window should open with the Jupyter explorer interface. Use this interface to navigate to the folder in which you copied the repository files.
 
-4. **Open a notebook** Click on any of the files with the `.ipynb` extension to open that notebook in the interactive editor.
+4. **Open a notebook.** Click on any of the files with the `.ipynb` extension to open that notebook in the interactive editor.
 ## Notebook content
 
 ### Workshop 1: Introduction to Jupyter and Python
 
-This 
+This notebook introduces the Jupyter Notebook interface and covers fundamental concepts of programming in the Python programming language.
 
 ### Workshop 2: Getting started with pandas
 
+This notebook provides an introduction to the pandas library, including methods for reading, exploring, and writing various data formats such as tab-delimited files, Excel files, and JSON files.
+
 ### Workshop 3: Cleaning, manipulating, and exploring data with pandas
+
+This notebook covers common methods for cleaning and preparing datasets for analyses with pandas such as filtering, aggregation, and joins and introduces basic exploratory analysis methods using pandas and Python visualization libraries.
 
 ## Credits
 
