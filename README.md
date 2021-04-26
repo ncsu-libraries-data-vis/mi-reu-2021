@@ -8,7 +8,7 @@ This collection of Jupyter notebooks provides an introduction to Jupyter Noteboo
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncsu-libraries-data-vis/mi-reu-2021/HEAD)
 
-This is a Binder-ready repository. Click the button above or follow this [Binder link](https://mybinder.org/v2/gh/ncsu-libraries-data-vis/mi-reu-2021/3ad7598dcd8b429c26d6bcdf06ccf7c8d6d52859) to open this repository in an online Jupyter server and run these interactive notebooks without having to set up a local environment or download these materials. Note that it may take one minute or more to launch the environment. When the environment is loaded, click on any of the files with the `.ipynb` extension to open that notebook in the interactive editor.
+This is a Binder-ready repository. Click the **launch binder** button above or follow [this Binder link](https://mybinder.org/v2/gh/ncsu-libraries-data-vis/mi-reu-2021/3ad7598dcd8b429c26d6bcdf06ccf7c8d6d52859) to open this repository in an online Jupyter server and run these interactive notebooks without having to set up a local environment or download these materials. Note that it may take one minute or more to launch the environment. When the environment is loaded, click on any of the files with the `.ipynb` extension to open that notebook in the interactive editor.
 
 ### Run on a local machine
 
