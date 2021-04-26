@@ -1,4 +1,4 @@
-# Materials Informatics Research Engagement for Undergraduates 2021
+# Materials Informatics Research Engagement for Undergraduates 2021: An introduction to programming and data science with Python
 
 This collection of Jupyter notebooks provides an introduction to Jupyter Notebook, programming with Python, and data science techniques with the Python libraries pandas and matplotlib. These materials were originally developed for inclusion in a collection of asynchronous learning modules created as part of a Materials Informatics Research Engagement for Undergraduates project.
 
